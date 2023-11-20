@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Le Minh Tuan</h1>
+<h1 align="center">Hi , I'm Đoàn Võ Văn Trọng</h1>
 <h3 align="center">I studied software engineering at Duy Tan University</h3>
 <img align="right"
     src="https://i.imgur.com/PF8DAH6.jpg"
@@ -7,7 +7,7 @@
 
 ```js
 
-Allow me to introduce myself. My name is Lê Minh Tuấn.
+Allow me to introduce myself. My name is Đoàn Võ Văn Trọng.
 I am a passionate web developer currently pursuing my
 studies in Software Engineering at Duy Tan University.
 Beyond the world of coding, I find joy in capturing
