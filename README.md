@@ -20,7 +20,7 @@ Let's embark on an inspiring journey together!
 <p align="left">
 <a href="[https://linkedin.com/in/ashutosh mishra](https://www.linkedin.com/jobs/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCBfXg-ad1FcMyGdJ6LInkyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 <a href="https://www.facebook.com/doanvo.vantrong/?locale=vi_VN" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="simplified learner" height="30" width="40" /></a>
 <a href="https://github.com/vantrong2405" target="blank"><img align="center" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="simplified learner" height="30" width="40" /></a>
 
