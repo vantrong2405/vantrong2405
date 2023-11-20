@@ -10,9 +10,6 @@
 Allow me to introduce myself. My name is Đoàn Võ Văn Trọng.
 I am a passionate web developer currently pursuing my
 studies in Software Engineering at Duy Tan University.
-Beyond the world of coding, I find joy in capturing
-moments through photography and expressing myself through
-the enchanting tunes of the piano.
 
 I have always been a sociable and outgoing individual, cherishing the connections
 I make with people from all walks of life. Whether it's
