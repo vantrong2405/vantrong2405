@@ -10,9 +10,6 @@
 Allow me to introduce myself. My name is Đoàn Võ Văn Trọng.
 I am a passionate web developer currently pursuing my
 studies in Software Engineering at Duy Tan University.
-Allow me to introduce myself. My name is Đoàn Võ Văn Trọng.
-I am a passionate web developer currently pursuing my
-studies in Software Engineering at Duy Tan University.
 I have always been a sociable and outgoing individual, cherishing the connections
 Let's embark on an inspiring journey together!
 ```
