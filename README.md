@@ -123,5 +123,7 @@ I have always been an outgoing and sociable individual, valuing the connections 
   </a>
 
 </p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=auroraphtgrp01&show_icons=true&locale=en&layout=compact" alt="auroraphtgrp01" />
+
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=auroraphtgrp01&show_icons=true&locale=en&layout=compact" alt="auroraphtgrp01" />
 </p>
