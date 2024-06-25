@@ -1,67 +1,18 @@
-<style>
-  .typing-animation span {
-    display: inline-block;
-    opacity: 0;
-    animation: typing 6s steps(20, end) infinite, blink-caret 0.75s step-end infinite;
-    font-size: 35px; /* Điều chỉnh kích thước chữ tùy ý */
-    font-weight: 500;
-  }
 
-  @keyframes typing {
-    0%, 100% { opacity: 0; }
-    1% { opacity: 1; }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: orange; }
-  }
-
-  .typing-animation span:nth-child(1) { animation-delay: 0s; }
-  .typing-animation span:nth-child(2) { animation-delay: 0.2s; }
-  .typing-animation span:nth-child(3) { animation-delay: 0.4s; }
-  .typing-animation span:nth-child(4) { animation-delay: 0.6s; }
-  .typing-animation span:nth-child(5) { animation-delay: 0.8s; }
-  .typing-animation span:nth-child(6) { animation-delay: 1s; }
-  .typing-animation span:nth-child(7) { animation-delay: 1.2s; }
-  .typing-animation span:nth-child(8) { animation-delay: 1.4s; }
-  .typing-animation span:nth-child(9) { animation-delay: 1.6s; }
-  .typing-animation span:nth-child(10) { animation-delay: 1.8s; }
-  .typing-animation span:nth-child(11) { animation-delay: 2s; }
-  .typing-animation span:nth-child(12) { animation-delay: 2.2s; }
-  .typing-animation span:nth-child(13) { animation-delay: 2.4s; }
-  .typing-animation span:nth-child(14) { animation-delay: 2.6s; }
-  .typing-animation span:nth-child(15) { animation-delay: 2.8s; }
-  .typing-animation span:nth-child(16) { animation-delay: 3s; }
-  .typing-animation span:nth-child(17) { animation-delay: 3.2s; }
-</style>
 
 <h1 align="center" class="typing-animation">
-  <span style="color: #DE741C;">Đ</span>
-  <span style="color: #DE741C;">o</span>
-  <span style="color: #DE741C;">à</span>
-  <span style="color: #DE741C;">n</span>
-  <span style="color: #DE741C;"> </span>
-  <span style="color: #DE741C;">V</span>
-  <span style="color: #DE741C;">õ</span>
-  <span style="color: #DE741C;"> </span>
-  <span style="color: #DE741C;">V</span>
-  <span style="color: #DE741C;">ă</span>
-  <span style="color: #DE741C;">n</span>
-  <span style="color: #DE741C;"> </span>
-  <span style="color: #DE741C;">T</span>
-  <span style="color: #DE741C;">r</span>
-  <span style="color: #DE741C;">ọ</span>
-  <span style="color: #DE741C;">n</span>
-  <span style="color: #DE741C;">g</span>
+  <span style="color: #DE741C;">Đoàn Võ Văn Trọng</span>
+
 </h1>
 
 <h3 align="center" style="color:#13313D">I studied software engineering at Duy Tan University 2021-2024</h3>
 
 ```js
 Allow me to introduce myself. My name is Đoàn Võ Văn Trọng.
-I am a dedicated web developer with a passion for creating innovative and dynamic web applications. Currently, I am pursuing my studies in Software Engineering at Duy Tan University, where I have honed my skills and deepened my knowledge in the field.
-I have always been an outgoing and sociable individual, valuing the connections I make with others. Let's embark on this exciting journey together, and create something truly inspiring!
+I am a dedicated web developer with a passion for creating innovative and dynamic web applications. 
+Currently, I am pursuing my studies in Software Engineering at Duy Tan University, where I have honed my skills and deepened my knowledge in the field.
+I have always been an outgoing and sociable individual, valuing the connections I make with others.
+ Let's embark on this exciting journey together, and create something truly inspiring!
 ```
 
 <h3 align="left" style="color:#13313D">Connect with me:</h3>
