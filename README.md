@@ -61,7 +61,7 @@ I have always been an outgoing and sociable individual, valuing the connections 
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJY57MnPNeUz2cVItQ-QJlp_oo_UlkUwwEA&s" alt="sass" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDML5CFq70Y9FJ52YnyCjfdyUA3g9B6is_jA&s" alt="sass" width="40" height="40"/>
   </a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -70,7 +70,7 @@ I have always been an outgoing and sociable individual, valuing the connections 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://stackgoo.com/upload/images/2023/12/26/cong-cu-ho-tro-thiet-ke-app-postman-658a80be25233-658a80be25235-658a80be25236-231226022902.jpg" alt="sass" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="sass" width="40" height="40"/>
   </a>
 
 </p>
