@@ -12,7 +12,7 @@ Allow me to introduce myself. My name is Đoàn Võ Văn Trọng.
 I am a dedicated web developer with a passion for creating innovative and dynamic web applications. 
 Currently, I am pursuing my studies in Software Engineering at Duy Tan University, where I have honed my skills and deepened my knowledge in the field.
 I have always been an outgoing and sociable individual, valuing the connections I make with others.
- Let's embark on this exciting journey together, and create something truly inspiring!
+Let's embark on this exciting journey together, and create something truly inspiring!
 ```
 
 <h3 align="left" style="color:#13313D">Connect with me:</h3>
