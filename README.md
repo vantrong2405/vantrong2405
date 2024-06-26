@@ -5,7 +5,7 @@
 
 </h1>
 
-<h3 align="center" style="color:#13313D">I studied software engineering at Duy Tan University 2021-2024</h3>
+<h3 align="center" style="color:#13313D">I studied software engineering at Duy Tan University 2021-2025</h3>
 
 ```js
 Allow me to introduce myself. My name is Đoàn Võ Văn Trọng.
