@@ -76,5 +76,5 @@ Let's embark on this exciting journey together, and create something truly inspi
 </p>
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=auroraphtgrp01&show_icons=true&locale=en&layout=compact" alt="auroraphtgrp01" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vantrong2405&show_icons=true&locale=en&layout=compact" alt="vantrong2405" />
 </p>
