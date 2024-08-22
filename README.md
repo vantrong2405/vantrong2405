@@ -77,7 +77,7 @@ Let's embark on this exciting journey together, and create something truly inspi
 ## GitHub Stats
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantrong2405&layout=Compact&theme=radical" alt="sass"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantrong2405&layout=compact&theme=dark" alt="sass"/>
 </div>
 
 
