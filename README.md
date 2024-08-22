@@ -74,7 +74,7 @@ Let's embark on this exciting journey together, and create something truly inspi
   </a>
 
 </p>
-
+## GitHub Stats
 <div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninh2103&layout=compact&theme=radical)
 </div>
