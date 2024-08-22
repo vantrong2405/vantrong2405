@@ -75,7 +75,8 @@ Let's embark on this exciting journey together, and create something truly inspi
 
 </p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ninh2103&show_icons=true&theme=radical)
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninh2103&layout=compact&theme=radical)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninh2103&layout=compact&theme=radical)
 
