@@ -6,8 +6,6 @@
   🎓 Software Engineering Student at Duy Tan University (2021-2025)
 </h3>
 
----
-
 <h2 align="center" style="color: #FF5733;">🌟 About Me 🌟</h2>
 
 <p align="center" style="font-size: 16px; line-height: 1.6;">
@@ -16,8 +14,6 @@
   Currently, I am pursuing my studies in <strong>Software Engineering</strong> at Duy Tan University (2021-2025). <br>
   I value teamwork, problem-solving, and making meaningful connections. Let's collaborate and create something amazing together!
 </p>
-
----
 
 <h2 align="center" style="color: #FF5733;">🤝 Connect with Me 🤝</h2>
 <p align="center">
@@ -32,15 +28,11 @@
   </a>
 </p>
 
----
-
 <h2 align="center" style="color: #FF5733;">💻 Programming Skills 💻</h2>
 <p align="center">
   <img height="40" width="40" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="JavaScript" />
   <img height="40" width="40" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="TypeScript" />
 </p>
-
----
 
 <h2 align="center" style="color: #FF5733;">🛠️ Libraries & Tools 🛠️</h2>
 <p align="center">
@@ -61,10 +53,8 @@
   </a>
 </p>
 
----
-
 <h2 align="center" style="color: #FF5733;">📊 GitHub Stats 📊</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantrong2405&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vantrong2405&show_icons=true&theme=radical" alt="GitHub Stats" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantrong2405&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vantrong2405&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px;"/>
 </div>
