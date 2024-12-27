@@ -25,10 +25,9 @@ Let's embark on this exciting journey together, and create something truly inspi
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
-    <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="Typescript Icon" />
+    <img height="40" width="40" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
+    <img height="40" width="40" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="Typescript Icon" />
   </a>
-  
 </p>
 
 <h3 align="left">Libraries  and Tools:</h3>
