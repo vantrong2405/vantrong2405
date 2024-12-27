@@ -59,6 +59,7 @@
   📊 GitHub Stats
 </h2>
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantrong2405&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; flex: 1; max-width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vantrong2405&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; flex: 1; max-width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vantrong2405&theme=radical&count_private=true&hide_border=true&rank_icon=github&line_height=20" alt="GitHub Stats" style="border-radius: 10px; flex: 1; max-width: 48%;" />
 </div>
