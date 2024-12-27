@@ -51,6 +51,7 @@
   🗄️ Databases
 </h2>
 <p style="text-align: left; margin-top: 10px;">
+    <img height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" />
   <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" />
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" />
 </p>
