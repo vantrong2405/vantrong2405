@@ -20,6 +20,7 @@
   💻 Programming Skills
 </h2>
 <p style="text-align: left; margin-top: 10px;">
+  <img height="40" width="40" src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="JavaScript" />
   <img height="40" width="40" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="JavaScript" />
   <img height="40" width="40" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="TypeScript" />
 </p>
