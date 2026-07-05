@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tr%E1%BB%8Dng-%C4%91o%C3%A0n-850a17343/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:trongdn2405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://dev-abinash-sharma.github.io"><img src="https://img.shields.io/badge/Portfolio-1a2744?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://vantrong2405.github.io/Portfolio-vantrong/"><img src="https://img.shields.io/badge/Portfolio-1a2744?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.facebook.com/doanvo.vantrong/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/trongvan2405/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -13,33 +13,16 @@
 
 ### 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="240" valign="top">
-<img src="https://vantrong2405.github.io/Portfolio-vantrong/assets/images/profile.webp" width="220" />
-</td>
-<td valign="top">
+<p align="center">
+<img src="https://vantrong2405.github.io/Portfolio-vantrong/assets/images/profile.webp" width="180" />
+</p>
 
-```bash
-$ whoami
-Đoàn Võ Văn Trọng
+<h3 align="center">Đoàn Võ Văn Trọng</h3>
+<p align="center">Ruby on Rails Backend Developer</p>
 
-$ cat role.txt
-Ruby on Rails Backend Developer
-
-$ cat location.txt
-Đà Nẵng, Vietnam
-
-$ cat education.txt
-Software Engineering @ Duy Tan University (2021-2025)
-
-$ cat current_focus.txt
-Building & optimizing Ruby on Rails APIs for clients in Japan
-```
-
-</td>
-</tr>
-</table>
+<p align="center">
+📍 Đà Nẵng, Vietnam &nbsp;|&nbsp; 🎓 Software Engineering @ Duy Tan University (2021-2025) &nbsp;|&nbsp; 🎯 Building & optimizing Ruby on Rails APIs for clients in Japan
+</p>
 
 ### 💼 What I Do
 
