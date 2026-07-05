@@ -1,1 +1,72 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; margin-bottom: 20px;"> <span style="color: #DE741C;">🚀 Đoàn Võ Văn Trọng 🚀</span> </h1> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=800&color=FF6B35&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%8E+Ruby+on+Rails;%F0%9F%9A%80+Backend+API+Architect" alt="Animated Bio" /> </div> <h3 align="center" style="color: #13313D; font-family: 'Verdana', sans-serif; margin-bottom: 30px;"> 🎓 Software Engineering Student at Duy Tan University (2021-2025) </h3> <h2 style="color: #FF5733; font-family: 'Verdana', sans-serif; text-align: left;"> 🌟 About Me </h2> <p style="font-size: 16px; line-height: 1.6; text-align: left;"> Hi there! My name is <strong>Đoàn Võ Văn Trọng</strong>. <br> I am a dedicated <strong>Ruby on Rails Backend Developer</strong> with expertise in building robust, scalable web applications and RESTful APIs, specializing in <strong>Ruby on Rails, PostgreSQL, Docker</strong>. <br> I have a deep passion for crafting dynamic and scalable backend systems. Currently, I am pursuing my studies in <strong>Software Engineering</strong> at Duy Tan University (2021-2025). <br> Let's work together and build amazing digital solutions! </p> <h2 style="color: #FF5733; font-family: 'Verdana', sans-serif; text-align: left; margin-top: 40px;"> 💻 Programming Skills </h2> <p style="text-align: left; margin-top: 10px;"> <img height="40" width="40" src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML5" /> <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /> <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /> <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" /> </p> <h2 style="color: #FF5733; font-family: 'Verdana', sans-serif; text-align: left; margin-top: 40px;"> 🛠️ Libraries & Frameworks </h2> <p style="text-align: left; margin-top: 10px;"> <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" /> <img height="40" width="40" src="https://nestjs.com/img/logo-small.svg" alt="NestJS" /> <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" /> </p> <h2 style="color: #FF5733; font-family: 'Verdana', sans-serif; text-align: left; margin-top: 40px;"> 🛠️ Tools & Technologies </h2> <p style="text-align: left; margin-top: 10px;"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40" /> </a> <a href="https://tailwindcss.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40" /> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="Postman" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> </a> </p> <h2 style="color: #FF5733; font-family: 'Verdana', sans-serif; text-align: left; margin-top: 40px;"> 🗄️ Databases </h2> <p style="text-align: left; margin-top: 10px;"> <img height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" /> <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" /> <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" /> </p> <h2 style="color: #FF5733; font-family: 'Verdana', sans-serif; text-align: left; margin-top: 40px;"> 📊 GitHub Stats </h2> <div style="display: flex; gap: 20px; flex-wrap: wrap;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantrong2405&layout=compact&theme=radical&count_private=true&hide_border=true" alt="Top Languages" style="border-radius: 10px; flex: 1; max-width: 48%;" /> <img src="https://github-readme-stats.vercel.app/api?username=vantrong2405&theme=radical&count_private=true&hide_border=true&rank_icon=github&line_height=20" alt="GitHub Stats" style="border-radius: 10px; flex: 1; max-width: 48%;" /> </div>
+<h1 align="center">Hi, I'm Đoàn Võ Văn Trọng 👋</h1>
+<p align="center"><b>Ruby on Rails Backend Developer</b> — building APIs for international clients</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tr%E1%BB%8Dng-%C4%91o%C3%A0n-850a17343/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:trongdn2405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://dev-abinash-sharma.github.io"><img src="https://img.shields.io/badge/Portfolio-1a2744?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.facebook.com/doanvo.vantrong/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/trongvan2405/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+<table>
+<tr>
+<td width="240" valign="top">
+<img src="https://vantrong2405.github.io/Portfolio-vantrong/assets/images/profile.webp" width="220" />
+</td>
+<td valign="top">
+
+```bash
+$ whoami
+Đoàn Võ Văn Trọng
+
+$ cat role.txt
+Ruby on Rails Backend Developer
+
+$ cat location.txt
+Đà Nẵng, Vietnam
+
+$ cat education.txt
+Software Engineering @ Duy Tan University (2021-2025)
+
+$ cat current_focus.txt
+Building & optimizing Ruby on Rails APIs for clients in Japan
+```
+
+</td>
+</tr>
+</table>
+
+### 💼 What I Do
+
+- 🏢 Building and optimizing Ruby on Rails APIs, collaborating directly with clients in Japan across cross-timezone teams
+- ⚡ Optimize PostgreSQL queries (indexing, refactoring) to improve API response times on high-traffic endpoints
+- 🔍 Conduct code reviews and enforce Rails/MVC best practices to keep the codebase healthy
+- 🤖 Use AI coding agents (Claude Code) in my daily workflow to move faster without cutting corners
+
+### 🏆 Certifications & Awards
+
+| | |
+|---|---|
+| 💎 **Ruby Association Certified Ruby Programmer — Silver** | Ruby Association, Japan |
+| 🥈 **2nd Prize, Scientific Research Student Conference** | Duy Tan University |
+| 🎓 **Graduated with Good Classification** | Duy Tan University |
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <b>Frameworks & Libraries</b><br/>
+  <img src="https://skillicons.dev/icons?i=nestjs,laravel,react,nextjs,vue" /><br/><br/>
+  <b>Ruby & Rails</b><br/>
+  <img src="https://skillicons.dev/icons?i=ruby,rails" /><br/><br/>
+  <b>Database & DevOps</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,mongodb" />
+</p>
+
+---
+
+<p align="center"><i>Building clean, scalable backend systems — one API at a time 🚀</i></p>
